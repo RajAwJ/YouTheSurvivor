@@ -1,0 +1,53 @@
+=========
+CONTROLS:
+=========
+
+Up ---------------------- w
+Down -------------------- s
+Left -------------------- a
+Right ------------------- d
+
+Fireball ---------------- SPACE
+Speed Run --------------- q
+
+Pause/UnPause ----------- p
+Menu Selection ---------- ENTER
+
+==========
+OBJECTIVE:
+==========
+
+--> Completing each level requires the following:
+    - Collect the required number of Gems
+    - Collect the Gems within the Time limit
+    - Kill all enemies [ OPTIONAL ]
+
+=====
+TIPS:
+=====
+
+[PLAYER]
+--> White figure; Spawns in the centre of the play area
+--> Player dies upon contact with the enemy
+--> All enemies spawn randomly
+
+[FIREBALL]
+--> Face the enemy and then shoot Fireball
+--> Aim Fireball at the centre of the enemy
+--> Each Fireball does -5 damage
+
+[SPEED RUN]
+--> 'Speed Run' requires 4 Gems
+--> 'Speed Run' completes when Player either:
+        - Shoots Fireball
+        - Collects a Gem
+
+[WALKER]
+--> Walkers are dumb and roam around randomly
+--> However, if Player comes within a certain radius of them,
+    they will chase Player
+--> Killing a Walker will grant +3 Gems
+
+[SEEKER]
+--> A Seeker (Goblin) will seek Player all the time
+--> Killing Seeker will grant +8 Ammo
