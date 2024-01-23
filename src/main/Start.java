@@ -43,7 +43,7 @@ public class Start extends JFrame {
 		holdingPanel.add( view );
 		holdingPanel.add( statsDisplay );
 
-		setTitle("Game Room");
+		setTitle("You The Survivor");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
